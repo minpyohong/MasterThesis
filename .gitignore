@@ -1,0 +1,5 @@
+# Project exclude paths
+/venv/
+
+#for excepting csv file, because csv file has too much file size , it can not commit to github repository
+**.csv
